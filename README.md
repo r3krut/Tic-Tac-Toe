@@ -14,5 +14,8 @@ How run it?
 2. make the "make" command
 3. run ./tic_tac_toe
 
+This is example of game
+
+![alt text](/1.png) 
 
 

@@ -8,7 +8,7 @@
 <p>Requries</p>
     Qt v.5
 
-**How run it?
+How run it?
 
 1. clone this repository
 2. make the "make" command

@@ -16,6 +16,10 @@ How run it?
 
 This is example of game
 
-![alt text](/1.png) 
+![alt text](/1.png)
+
+======================
+
+![alt text](/2.png) 
 
 
